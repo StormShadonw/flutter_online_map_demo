@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033094276822",
+    "project_id": "flutter-online-map-demo",
+    "storage_bucket": "flutter-online-map-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033094276822:android:4ad09dcd6b8b0f1b3f8b77",
+        "android_client_info": {
+          "package_name": "com.example.flutter_online_map_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgP1nJEvdbZNh0peeNduEr2k8sr859yvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
